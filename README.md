@@ -2,6 +2,27 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## 개요
+
+Next.js는 현대적인 웹 애플리케이션을 구축하기 위한 오픈 소스 JavaScript 프레임워크입니다.   
+React 기반으로 작동하며, 서버 사이드 렌더링(SSR)과 정적 사이트 생성(Static Site Generation, SSG)을    지원합니다. 이는 웹사이트의 성능을 향상시키고, 검색 엔진 최적화(SEO)에 유리하게 작용합니다.   
+
+## 셋팅
+
+PS C:\Users\line\Desktop\WEBS1111> cd next-project   
+PS C:\Users\line\Desktop\WEBS1111\next-project> npx create-next-app@latest          
+Need to install the following packages:create-next-app@14.0.2   
+Ok to proceed? (y) y   
+√ What is your project named? ... .   
+√ Would you like to use TypeScript? ... <No> / Yes   
+√ Would you like to use ESLint? ... No / <Yes>   
+√ Would you like to use Tailwind CSS? ... <No> / Yes   
+√ Would you like to use `src/` directory? ... No / <Yes>   
+√ Would you like to use App Router? (recommended) ... No / <Yes>   
+√ Would you like to customize the default import alias (@/*)? ... No / <Yes>          
+√ What import alias would you like configured? ... <@>/*   
+Creating a new Next.js app in C:\Users\line\Desktop\WEBS1111\next-project.   
+
 First, run the development server:
 
 ```bash
